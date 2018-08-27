@@ -70,7 +70,7 @@ const MapWithAnOverlayView = compose(
        * 3. Create OverlayView content using standard React components.
        */
     >
-      <img src={require("../img/talkeetna.png")} alt="overlay"/>
+      <div></div>
     </CustomOverlayView>
   </GoogleMap>
 );
