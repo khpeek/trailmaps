@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import MapWithAnOverlayView from './components/overlayView';
 import MapWithGroundOverlay from './components/groundOverlay';
 
 class App extends Component {
